@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "ALX"
+case 
+echo "ALX School"
